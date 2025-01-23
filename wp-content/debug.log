@@ -1,0 +1,285 @@
+[14-Jan-2025 13:30:22 UTC] PHP Fatal error:  Uncaught TypeError: extract(): Argument #1 ($array) must be of type array, string given in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php:3
+Stack trace:
+#0 C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php(3): extract('|', 'youtube-tool|\r\n...')
+#1 C:\Users\ajilk\Local Sites\myresume\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\ajilk\\...')
+#2 C:\Users\ajilk\Local Sites\myresume\app\public\wp-blog-header.php(19): require_once('C:\\Users\\ajilk\\...')
+#3 C:\Users\ajilk\Local Sites\myresume\app\public\index.php(17): require('C:\\Users\\ajilk\\...')
+#4 {main}
+  thrown in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 3
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Undefined variable $tools_links in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 64
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 64
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Undefined variable $tools_links in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 77
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 77
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Undefined variable $tools_links in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 90
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 90
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 13:31:16 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 215
+[14-Jan-2025 13:32:10 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 13:32:10 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 13:32:10 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 13:32:10 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 13:32:10 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 13:32:10 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 13:32:10 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 215
+[14-Jan-2025 13:32:21 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 234
+[14-Jan-2025 13:32:21 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 234
+[14-Jan-2025 13:32:21 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 242
+[14-Jan-2025 13:32:21 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 242
+[14-Jan-2025 13:32:21 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 250
+[14-Jan-2025 13:32:21 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 250
+[14-Jan-2025 13:32:21 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 253
+[14-Jan-2025 13:32:48 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 13:32:48 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 13:32:48 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 13:32:48 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 13:32:48 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 13:32:48 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 13:32:48 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 215
+[14-Jan-2025 13:32:59 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 234
+[14-Jan-2025 13:32:59 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 234
+[14-Jan-2025 13:32:59 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 242
+[14-Jan-2025 13:32:59 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 242
+[14-Jan-2025 13:32:59 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 250
+[14-Jan-2025 13:32:59 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 250
+[14-Jan-2025 13:32:59 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 253
+[14-Jan-2025 14:24:33 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 14:24:33 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 14:24:33 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 14:24:33 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 14:24:33 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 14:24:33 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 14:24:33 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 215
+[14-Jan-2025 14:24:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:24:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:24:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:24:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:24:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:24:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:24:43 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 295
+[14-Jan-2025 14:25:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:25:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:25:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:25:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:25:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:25:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:25:56 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 295
+[14-Jan-2025 14:26:15 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:26:15 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:26:15 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:26:15 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:26:15 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:26:15 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:26:15 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 295
+[14-Jan-2025 14:26:37 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 14:26:37 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 14:26:37 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 14:26:37 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 14:26:37 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 14:26:37 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 14:26:37 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 215
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\yt.php on line 201
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\yt.php on line 201
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\yt.php on line 209
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\yt.php on line 209
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\yt.php on line 217
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\yt.php on line 217
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\yt.php on line 220
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:26:43 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 295
+[14-Jan-2025 14:26:44 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 234
+[14-Jan-2025 14:26:44 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 234
+[14-Jan-2025 14:26:44 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 242
+[14-Jan-2025 14:26:44 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 242
+[14-Jan-2025 14:26:44 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 250
+[14-Jan-2025 14:26:44 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 250
+[14-Jan-2025 14:26:44 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 253
+[14-Jan-2025 14:27:17 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:27:17 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:27:17 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:27:17 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:27:17 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:27:17 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:27:17 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 295
+[14-Jan-2025 14:27:50 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:27:50 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 276
+[14-Jan-2025 14:27:50 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:27:50 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 284
+[14-Jan-2025 14:27:50 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:27:50 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 292
+[14-Jan-2025 14:27:50 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 295
+[14-Jan-2025 14:28:30 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 221
+[14-Jan-2025 14:28:30 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 221
+[14-Jan-2025 14:28:30 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 229
+[14-Jan-2025 14:28:30 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 229
+[14-Jan-2025 14:28:30 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 237
+[14-Jan-2025 14:28:30 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 237
+[14-Jan-2025 14:28:30 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 240
+[14-Jan-2025 14:28:54 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 234
+[14-Jan-2025 14:28:54 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 234
+[14-Jan-2025 14:28:54 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 242
+[14-Jan-2025 14:28:54 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 242
+[14-Jan-2025 14:28:54 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 250
+[14-Jan-2025 14:28:54 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 250
+[14-Jan-2025 14:28:54 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 253
+[14-Jan-2025 14:29:53 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:29:53 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:29:53 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:29:53 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:29:53 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:29:53 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:29:53 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 14:30:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:30:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:30:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:30:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:30:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:30:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:30:19 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 14:32:04 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 227
+[14-Jan-2025 14:32:04 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 227
+[14-Jan-2025 14:32:04 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 235
+[14-Jan-2025 14:32:04 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 235
+[14-Jan-2025 14:32:04 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 243
+[14-Jan-2025 14:32:04 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 243
+[14-Jan-2025 14:32:04 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 246
+[14-Jan-2025 14:32:55 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 228
+[14-Jan-2025 14:32:55 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 228
+[14-Jan-2025 14:32:55 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 236
+[14-Jan-2025 14:32:55 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 236
+[14-Jan-2025 14:32:55 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 244
+[14-Jan-2025 14:32:55 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 244
+[14-Jan-2025 14:32:55 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 247
+[14-Jan-2025 14:33:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 228
+[14-Jan-2025 14:33:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 228
+[14-Jan-2025 14:33:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 236
+[14-Jan-2025 14:33:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 236
+[14-Jan-2025 14:33:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 244
+[14-Jan-2025 14:33:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 244
+[14-Jan-2025 14:33:16 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 247
+[14-Jan-2025 14:33:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:33:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:33:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:33:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:33:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:33:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:33:56 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 14:38:21 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:38:21 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:38:21 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:38:21 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:38:21 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:38:21 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:38:21 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 14:38:24 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:38:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:38:24 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:38:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:38:24 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:38:24 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:38:24 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 14:39:10 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:39:10 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 14:39:10 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:39:10 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 14:39:10 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:39:10 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 14:39:10 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 15:11:44 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:11:44 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:11:44 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:11:44 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:11:44 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:11:44 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:11:44 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 15:11:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 15:11:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 15:11:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 15:11:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 15:11:56 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 15:11:56 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 15:11:56 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 215
+[14-Jan-2025 15:12:00 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 228
+[14-Jan-2025 15:12:00 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 228
+[14-Jan-2025 15:12:00 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 236
+[14-Jan-2025 15:12:00 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 236
+[14-Jan-2025 15:12:00 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 244
+[14-Jan-2025 15:12:00 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 244
+[14-Jan-2025 15:12:00 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 247
+[14-Jan-2025 15:12:33 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 228
+[14-Jan-2025 15:12:33 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 228
+[14-Jan-2025 15:12:33 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 236
+[14-Jan-2025 15:12:33 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 236
+[14-Jan-2025 15:12:33 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 244
+[14-Jan-2025 15:12:33 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 244
+[14-Jan-2025 15:12:33 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\personalloan_calc.php on line 247
+[14-Jan-2025 15:13:09 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 15:13:09 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[14-Jan-2025 15:13:09 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 15:13:09 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[14-Jan-2025 15:13:09 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 15:13:09 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[14-Jan-2025 15:13:09 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 215
+[14-Jan-2025 15:13:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:13:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:13:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:13:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:13:16 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:13:16 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:13:16 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 15:14:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:14:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:14:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:14:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:14:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:14:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:14:19 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 15:15:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:15:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:15:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:15:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:15:19 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:15:19 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:15:19 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[14-Jan-2025 15:15:36 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:15:36 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[14-Jan-2025 15:15:36 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:15:36 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[14-Jan-2025 15:15:36 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:15:36 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[14-Jan-2025 15:15:36 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[20-Jan-2025 17:02:51 UTC] Automatic updates starting...
+[20-Jan-2025 17:02:51 UTC]   Automatic plugin updates starting...
+[20-Jan-2025 17:02:51 UTC]   Automatic plugin updates complete.
+[20-Jan-2025 17:02:51 UTC]   Automatic theme updates starting...
+[20-Jan-2025 17:02:51 UTC]   Automatic theme updates complete.
+[20-Jan-2025 17:02:51 UTC] Automatic updates complete.
+[20-Jan-2025 18:34:55 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[20-Jan-2025 18:34:55 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 196
+[20-Jan-2025 18:34:55 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[20-Jan-2025 18:34:55 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 204
+[20-Jan-2025 18:34:55 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[20-Jan-2025 18:34:55 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 212
+[20-Jan-2025 18:34:55 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\mytool.php on line 215
+[20-Jan-2025 18:35:01 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[20-Jan-2025 18:35:01 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 235
+[20-Jan-2025 18:35:01 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[20-Jan-2025 18:35:01 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 243
+[20-Jan-2025 18:35:01 UTC] PHP Warning:  Undefined variable $address_call_email in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[20-Jan-2025 18:35:01 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 251
+[20-Jan-2025 18:35:01 UTC] PHP Warning:  Undefined variable $map_embedd in C:\Users\ajilk\Local Sites\myresume\app\public\wp-content\themes\myresume\templates\stockprofit_calc.php on line 254
+[22-Jan-2025 14:02:56 UTC] Automatic updates starting...
+[22-Jan-2025 14:02:57 UTC]   Automatic plugin updates starting...
+[22-Jan-2025 14:02:57 UTC]   Automatic plugin updates complete.
+[22-Jan-2025 14:02:57 UTC]   Automatic theme updates starting...
+[22-Jan-2025 14:02:57 UTC]   Automatic theme updates complete.
+[22-Jan-2025 14:02:57 UTC] Automatic updates complete.
